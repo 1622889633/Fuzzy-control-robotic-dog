@@ -1,10 +1,11 @@
 Title: Fuzzy-control-robotic-dog
 Freenove Raspberry Pi 
-1. Introduction:
+
+### Introduction:
 The project aims to enhance the adaptability and robustness of robotic dogs by employing fuzzy algorithms, specifically focusing on the Freenove Robotic Dog Kit, which is based on the Raspberry Pi 4B platform. The goal is to create an advanced navigation system through centralized scheduling achieved by the cooperation between higher-level commands and lower-level machine operations. This would allow the robotic dog to efficiently execute action commands, navigate complex paths, and adapt to its environment with improved responsiveness.
 To accomplish these objectives, the project will develop a path planning system that integrates sensory inputs like ultrasonic sensors and machine vision, enabling precise movement in dynamic settings. A fuzzy logic-based closed-loop control system will be designed to refine the robot's movements, allowing it to perform complex commands and interact with its surroundings more naturally. Additionally, the project involves seamless hardware and software integration to ensure energy efficiency, real-time processing, and the robust performance of control commands.
 
-2. User Installation Instructions
+User Installation Instructions
 To set up the software for the Freenove Robotic Dog project using a Raspberry Pi, you will need to follow these step-by-step instructions, assuming you are starting from scratch:
 
 Preparing the Raspberry Pi:
